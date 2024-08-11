@@ -1,0 +1,92 @@
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\kel7_tiketBus.exe
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\kel7_tiketBus.deps.json
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\kel7_tiketBus.runtimeconfig.json
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\kel7_tiketBus.dll
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\kel7_tiketBus.pdb
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.Form1.resources
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.FormTiket.resources
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.Properties.Resources.resources
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.csproj.GenerateResource.cache
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.AssemblyInfoInputs.cache
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.AssemblyInfo.cs
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.csproj.CoreCompileInputs.cache
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.dll
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\refint\kel7_tiketBus.dll
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.pdb
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.genruntimeconfig.cache
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\ref\kel7_tiketBus.dll
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.FormDetail.resources
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.csproj.AssemblyReference.cache
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.FormData.resources
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\cooleyah\semester 3\pemrograman dekstop prak\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.csproj.CopyComplete
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\kel7_tiketBus.exe
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\kel7_tiketBus.deps.json
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\kel7_tiketBus.runtimeconfig.json
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\kel7_tiketBus.dll
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\kel7_tiketBus.pdb
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.csproj.AssemblyReference.cache
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.Form1.resources
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.FormData.resources
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.FormDetail.resources
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.FormTiket.resources
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.Properties.Resources.resources
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.csproj.GenerateResource.cache
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.AssemblyInfoInputs.cache
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.AssemblyInfo.cs
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.csproj.CoreCompileInputs.cache
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.csproj.CopyComplete
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.dll
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\refint\kel7_tiketBus.dll
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.pdb
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.genruntimeconfig.cache
+D:\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\ref\kel7_tiketBus.dll
+D:\a kuliah\semester3\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.csproj.AssemblyReference.cache
+D:\a kuliah\semester3\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.Form1.resources
+D:\a kuliah\semester3\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.FormData.resources
+D:\a kuliah\semester3\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.FormDetail.resources
+D:\a kuliah\semester3\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.FormTiket.resources
+D:\a kuliah\semester3\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.Properties.Resources.resources
+D:\a kuliah\semester3\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.csproj.GenerateResource.cache
+D:\a kuliah\semester3\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\a kuliah\semester3\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.AssemblyInfoInputs.cache
+D:\a kuliah\semester3\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.AssemblyInfo.cs
+D:\a kuliah\semester3\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.csproj.CoreCompileInputs.cache
+D:\a kuliah\semester3\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.dll
+D:\a kuliah\semester3\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\refint\kel7_tiketBus.dll
+D:\a kuliah\semester3\Desktop\desktop\kel7_tiketBus\kel7_tiketBus\obj\Debug\net6.0-windows\kel7_tiketBus.pdb
